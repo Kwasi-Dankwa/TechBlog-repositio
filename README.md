@@ -47,4 +47,4 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 https://radiant-ridge-48324.herokuapp.com/
 
 ### Screenshot
-image.png
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/104780360/176353648-a7bc7a87-26b1-48e9-aaa0-1c791b2139e1.png">
