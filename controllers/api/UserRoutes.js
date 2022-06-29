@@ -24,6 +24,7 @@ router.post('/', async (req, res) => {
 
 // LOGIN SECTION
 
+
 router.post('/login', async (req, res) => {
   try {
     const user = await User.findOne({
