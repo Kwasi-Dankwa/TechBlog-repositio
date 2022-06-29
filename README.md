@@ -46,5 +46,9 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ### Deployed Link - 
 https://radiant-ridge-48324.herokuapp.com/
 
-### Screenshot
+### Screeshot of Seeded Application
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/104780360/176353943-755c3927-a484-44c1-b123-afff90940138.png">
+
+
+### Screenshot of Deployed App
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/104780360/176353648-a7bc7a87-26b1-48e9-aaa0-1c791b2139e1.png">
