@@ -4,14 +4,17 @@ const userdata =
 [
   {
     "username": "Kane",
-    "password": "password"
+    "email": "kt3@imdb.com",
+    "password": "password123"
   },
   {
     "username": "Roman",
-    "password": "password"
+    "email": "romback@gmail.com",
+    "password": "password123"
   },
   {
     "username": "Tekno",
+    "email": "Tk0nan@gmail.com",
     "password": "password"
   }
 ];
