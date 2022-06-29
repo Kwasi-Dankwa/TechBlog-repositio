@@ -56,6 +56,7 @@ router.post('/login', async (req, res) => {
   }
 });
 
+
 // LOGOUT SECTION
 
 router.post('/logout', (req, res) => {
