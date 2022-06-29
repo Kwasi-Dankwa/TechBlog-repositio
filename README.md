@@ -1,5 +1,5 @@
 ### Tech-Blog-MVC-Project
-I'm building a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. I'm going to call it "Agora" where people can come and share their thoughts. My personal goal for this project is to increase my overall understanding of MVC architecture.
+I'm building a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. I'm going to call it "Agora" where people can come and share their thoughts. My personal goal for this project is to increase my overall understanding of MVC architecture. I'll be making future updates to this project as I learn more concepts.
 
 ### User Story
 ```
